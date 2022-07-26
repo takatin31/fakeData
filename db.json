@@ -1,161 +1,18 @@
-
-{
-    "Programs": [
-        {
-            "id": 0,
-            "name": "Program 1",
-            "goal": "Be like a Boss",
-            "difficulty": 3,
-            "imageUrl": "program_cover.png"
-        },
-        {
-            "id": 1,
-            "name": "Program 2",
-            "goal": "Easy program",
-            "difficulty": 1,
-            "imageUrl": "program_cover.png"
-        },
-        {
-            "id": 2,
-            "name": "Program 3",
-            "goal": "Medium Program",
-            "difficulty": 2,
-            "imageUrl": "program_cover.png"
-        },
-        {
-            "id": 3,
-            "name": "Program 4",
-            "goal": "Hard Program",
-            "difficulty": 3,
-            "imageUrl": "program_cover.png"
-        },
-        {
-            "id": 4,
-            "name": "Program 3",
-            "goal": "Medium Program",
-            "difficulty": 2,
-            "imageUrl": "program_cover.png"
-        }
-    ],
-    "Program": {
-        "pgId": 13,
-        "title": "coucou",
-        "difficulty": 1,
-        "goal": "coucouObj",
-        "coverImage": null,
-        "muscles": [
-            {
-                "muscleName": "Biceps"
-            },
-            {
-                "muscleName": "dzad"
-            }
-        ],
-        "workshops": [
-            {
-                "woOrder": 1,
-                "woId": 21,
-                "woName": "1",
-                "nbCycles": 1,
-                "woRestTime": "52:59",
-                "isSwitchable": true,
-                "exercises": [
-                    {
-                        "woExId": 28,
-                        "woExOrder": 1,
-                        "exId": 8,
-                        "exName": "Soulevage d'haltères ;)",
-                        "equipments": [
-                            {
-                                "eqId": 2,
-                                "eqName": "Haltères",
-                                "quantity": 20
-                            }
-                        ],
-                        "exPrimaryMuscle": "Biceps",
-                        "exSecondaryMuscles": [
-                            {
-                                "muId": "Triceps"
-                            }
-                        ],
-                        "similarExercises": null,
-                        "nbSets": 1,
-                        "repetition": null,
-                        "weight": null,
-                        "duration": null,
-                        "method": null,
-                        "woExRestTime": "02:05",
-                        "exHelps": [
-                            {
-                                "heId": 30,
-                                "heName": "Paume vers le haut, prendre un haltère dans sa main et plier le bras afin que l'haltère vienne au niveau de l'épaule.",
-                                "typeId": 1,
-                                "typeName": "Text"
-                            },
-                            {
-                                "heId": 31,
-                                "heName": "a4269bc81f73c0d191fccddc56d1bac3.jpeg",
-                                "typeId": 2,
-                                "typeName": "Image"
-                            },
-                            {
-                                "heId": 32,
-                                "heName": "e8bea77743eba8938bb106cd50bb7708.jpeg",
-                                "typeId": 2,
-                                "typeName": "Image"
-                            }
-                        ]
-                    },
-                    {
-                        "woExId": 29,
-                        "woExOrder": 2,
-                        "exId": 7,
-                        "exName": "pompes",
-                        "equipments": [
-                            {
-                                "eqId": 1,
-                                "eqName": "fzadvfazd",
-                                "quantity": 1
-                            }
-                        ],
-                        "exPrimaryMuscle": "dzad",
-                        "exSecondaryMuscles": [],
-                        "similarExercises": null,
-                        "nbSets": 1,
-                        "repetition": null,
-                        "weight": null,
-                        "duration": null,
-                        "method": null,
-                        "woExRestTime": "00:00",
-                        "exHelps": [
-                            {
-                                "heId": 25,
-                                "heName": "Copain",
-                                "typeId": 1,
-                                "typeName": "Text"
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "woOrder": 2,
-                "woId": 22,
-                "woName": "2",
-                "nbCycles": 1,
-                "woRestTime": "00:00",
-                "isSwitchable": true,
-                "exercises": null
-            },
-            {
-                "woOrder": 3,
-                "woId": 23,
-                "woName": "2",
-                "nbCycles": 3,
-                "woRestTime": "02:00",
-                "isSwitchable": false,
-                "exercises": null
-            }
-        ]
+[
+    {
+        "Container" : "C1",
+        "Object" : "Vis",
+        "Quantité" : 10
+    },
+    {
+        "Container" : "C2",
+        "Object" : "Bois",
+        "Quantité" : 2
+    },
+    {
+        "Container" : "C3",
+        "Object" : "Embouts en Caoutchouc",
+        "Quantité" : 5
     }
-}
+    
+]
