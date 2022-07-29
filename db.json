@@ -5,12 +5,12 @@
         "Quantité" : 10
     },
     {
-        "Container" : "C2",
+        "Container" : "C7",
         "Object" : "Bois",
         "Quantité" : 2
     },
     {
-        "Container" : "C3",
+        "Container" : "C10",
         "Object" : "Embouts en Caoutchouc",
         "Quantité" : 5
     }
