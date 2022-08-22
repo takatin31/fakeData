@@ -2,16 +2,16 @@
     {
         "Container" : "C1",
         "Object" : "Vis",
-        "Quantity" : 10
+        "Quantité" : 10
     },
     {
         "Container" : "C7",
         "Object" : "Bois",
-        "Quantity" : 2
+        "Quantité" : 2
     },
     {
         "Container" : "C10",
         "Object" : "Embouts en Caoutchouc",
-        "Quantity" : 5
+        "Quantité" : 5
     }
 ]
